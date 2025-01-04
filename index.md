@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Portfolio
 ---
 
 # Welcome to My Site
