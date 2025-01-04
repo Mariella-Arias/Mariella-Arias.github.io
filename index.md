@@ -8,7 +8,7 @@ Software Developer focused on creating elegant solutions.
 ## Projects
 
 ### [Expense Tracker](/projects/expense-tracker.md)
-A lightweight vanilla Javascript application for tracking personal expenses.
+A lightweight vanilla Javascript application for tracking personal expenses. 
 [View Code](https://github.com/Mariella-Arias/expense-tracker)
 
 
