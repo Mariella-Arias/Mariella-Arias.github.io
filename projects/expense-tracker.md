@@ -25,9 +25,8 @@ A lightweight vanilla JavaScript application for tracking personal expenses. Use
 - Chai
 - Local Storage API
 
-## Development Process
+## Implementation
 
-<!-- I built this application to demonstrate proficiency in vanilla JavaScript and DOM manipulation without relying on external libraries. The project emphasizes clean code architecture and user experience. -->
 
 ## Links
 
@@ -36,4 +35,4 @@ A lightweight vanilla JavaScript application for tracking personal expenses. Use
 
 ## Screenshots
 
-<!-- [Add screenshots of your application here] -->
+<!-- [Add screenshots of application here] -->
