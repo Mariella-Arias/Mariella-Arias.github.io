@@ -1,18 +1,18 @@
 ---
 layout: default
-title: Portfolio Landing Page
 ---
 
-# Welcome to My Portfolio
+# Mariella Arias
+Software Developer focused on creating elegant solutions.
 
-Thank you for visiting my portfolio! Below are links to my projects, each showcasing my skills in different areas.
+## Projects
 
-## Portfolio
+### Project 1: [Expense Tracker](https://mariella-arias.github.io/expense-tracker/)
+A lightweight vanilla Javascript application for tracking personal expenses.
+[View Code](https://github.com/Mariella-Arias/expense-tracker)
 
-- [**Project 1**: Project Description](projects/project-1/)
-- [**Project 2**: Project Description](projects/project-2/)
-- [**Project 3**: Project Description](projects/project-3/)
 
----
+## About
 
-Feel free to explore the projects, and contact me if you have any questions or would like to discuss potential opportunities!
+
+[View Resume](link-to-resume) • [GitHub](https://github.com/mariella-arias)
