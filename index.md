@@ -31,9 +31,6 @@ A lightweight vanilla JavaScript application for tracking personal expenses. Use
 - [Live Demo](https://mariella-arias.github.io/expense-tracker)
 - [View Code](https://github.com/mariella-arias/expense-tracker)
 
-#### Screenshots
-
-<!-- [Add screenshots of application here] -->
 
 ## About
 
