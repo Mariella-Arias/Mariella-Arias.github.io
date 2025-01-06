@@ -2,5 +2,6 @@ title: Mariella Arias
 logo: /assets/images/profile-photo.jpg
 description: Software Developer with a passion for building intuitive web applications. I thrive on transforming complex requirements into clean, maintainable code and creating seamless user experiences. Currently focused on web development and always eager to learn new technologies.
 theme: jekyll-theme-minimal
+custom_css: "/assets/css/stylesOverride.css"
 
 show_downloads: false  
