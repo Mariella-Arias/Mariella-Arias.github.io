@@ -4,10 +4,36 @@ layout: default
 
 ## Projects
 
-### [Expense Tracker](/projects/expense-tracker.md)
-A lightweight vanilla Javascript application for tracking personal expenses. 
-[View Code](https://github.com/Mariella-Arias/expense-tracker)
+### Expense Tracker
 
+A lightweight vanilla JavaScript application for tracking personal expenses. Users can add and remove expenses, view their spending history, and monitor their total budget.
+
+#### Features
+
+- Add and remove expenses
+- Clean, responsive interface
+- Track expenses with date, category, and amount
+- Filter by date and/or category
+- Data persistence using Local Storage
+- Responsive design for all devices
+
+#### Technologies Used
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- Mocha
+- Chai
+- Local Storage API
+
+#### Links
+
+- [Live Demo](https://mariella-arias.github.io/expense-tracker)
+- [View Code](https://github.com/mariella-arias/expense-tracker)
+
+#### Screenshots
+
+<!-- [Add screenshots of application here] -->
 
 ## About
 
