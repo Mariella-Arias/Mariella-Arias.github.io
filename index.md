@@ -6,7 +6,7 @@ layout: default
 
 ### Expense Tracker
 
-A lightweight vanilla JavaScript application for tracking personal expenses. Users can add and remove expenses, view their spending history, and monitor their total budget.
+A lightweight vanilla JavaScript application for tracking personal expenses.
 
 #### Features
 
