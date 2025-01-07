@@ -10,12 +10,17 @@ A lightweight vanilla JavaScript application for tracking personal expenses.
 
 #### Features
 
-- Add and remove expenses
-- Clean, responsive interface
-- Track expenses with date, category, and amount
-- Filter by date and/or category
-- Data persistence using Local Storage
-- Responsive design for all devices
+- **Track Expenses:** Easily add, edit, and delete expenses to keep track of spending
+- **Category Breakdown:** View expenses by category for better financial organization
+- **User-Friendly Interface:** Simple, clean, and intuitive design that adapts seamlessly to all screen sizes
+- **Data Persistence:** All data saved locally using the Local Storage API
+
+#### Interface Preview
+
+![Add Expense Form](assets/images/new-expense-form.png)
+![Edit Expense](assets/images/inline-edit.png)
+
+[▶️ Watch Demo Video](assets/videos/expense-tracker-snippet.mp4)
 
 #### Technologies Used
 
