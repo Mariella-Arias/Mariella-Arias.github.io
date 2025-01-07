@@ -15,11 +15,6 @@ A lightweight vanilla JavaScript application for tracking personal expenses.
 - **User-Friendly Interface:** Simple, clean, and intuitive design that adapts seamlessly to all screen sizes
 - **Data Persistence:** All data saved locally using the Local Storage API
 
-#### Interface Preview
-
-![Add Expense Form](assets/images/new-expense-form.png)
-![Edit Expense](assets/images/inline-edit.png)
-
 [▶️ Watch Demo Video](assets/videos/expense-tracker-snippet.mp4)
 
 #### Technologies Used
