@@ -31,7 +31,8 @@ A lightweight vanilla JavaScript application for tracking personal expenses.
 - [View Code](https://github.com/mariella-arias/expense-tracker)
 
 
-## About
+## Contact Me
 
+Let’s connect! Feel free to reach out:
 
-[View Resume](link-to-resume) • [GitHub](https://github.com/mariella-arias)
+[Email](mailto:arias.mariella1@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mariella-arias/) • [GitHub](https://github.com/mariella-arias)
