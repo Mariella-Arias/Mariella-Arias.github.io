@@ -12,7 +12,7 @@ A full-stack workout tracking application with a modern React frontend and Djang
 
 - **Workout Management:** Create, customize, and manage workout templates with detailed exercise parameters.
 - **Smart Scheduling:** Plan workouts using an intuitive calendar interface with drag-and-drop functionality.
-- **Activity Tracking:** Monitor workout completion and view progress history with detailed filtering.
+- **Activity Tracking:** Monitor workout completion and view progress history.
 - **Secure Authentication:** JWT-based user authentication with email verification and secure password management.
 - **Responsive Design:** Optimized for all devices from mobile to desktop.
 
